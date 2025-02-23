@@ -38,4 +38,7 @@ public class Cylinder extends Circle {
         return "Cylinder: subclass of " + super.toString()
                 + " height=" + height;
     }
+
+
+    // viet lai thang toString circle them height
 }
